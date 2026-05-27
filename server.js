@@ -1,10 +1,20 @@
-const express = require('express');
-const app = express();
+app.post('/reporte', (req, res) => {
+      const mensaje = req.body.mensaje;
+        res.json({
+            estado: "Reporte recibido",
+                mensaje: mensaje
+                  });
+                  });
+})
 
-app.get('/', (req, res) => {
-  res.send('Servidor funcionando correctamente');
-  });
+app.post('/reporte', (req, res) => {
+      const mensaje = req.body.mensaje;
+        res.json({
+            estado: "Reporte recibido",
+                mensaje: mensaje
+                  });
+                  });
 
-  app.listen(3000, () => {
-    console.log('Servidor ejecutándose en puerto 3000');
-    });
+
+})
+

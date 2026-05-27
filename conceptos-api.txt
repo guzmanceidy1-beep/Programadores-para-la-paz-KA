@@ -1,0 +1,10 @@
+que hace está ruta 
+Esa ruta recibe datos enviados con el método POST a /reporte.
+Lo que hace es:
+Toma el valor mensaje que viene en el cuerpo (body) de la petición.
+Guarda ese valor en la variable mensaje.
+Responde con un JSON diciendo "Reporte recibido" y devuelve el mensaje enviado.
+
+Para qué podría servir en una aplicación comunitaria
+Esa ruta podría servir en una aplicación comunitaria para que las personas envíen reportes, quejas o avisos a los administradores de la plataforma
+Por ejemplo, alguien podría reportar basura en una calle, daños en el barrio o problemas de seguridad. La aplicación recibe el mensaje y responde confirmando que el reporte fue recibido. Básicamente funciona como un buzón digital para la comunidad

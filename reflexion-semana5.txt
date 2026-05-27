@@ -1,0 +1,3 @@
+ayudan a que las comunidades compartan información de manera rápida y organizada porque permiten conectar diferentes aplicaciones y servicios.
+Gracias a ellas, una app puede enviar reportes, alertas o mensajes automáticamente a un servidor.
+Por ejemplo, los vecinos podrían reportar problemas de seguridad, daños en las calles o emergencias desde sus celulares.
