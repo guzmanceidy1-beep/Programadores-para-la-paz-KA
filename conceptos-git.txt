@@ -1,0 +1,9 @@
+Repositorio
+Un repositorio es el lugar donde se guarda y organiza un proyecto digital, incluyendo archivos, carpetas y cambios realizados.
+
+Commit
+Un commit es un registro de los cambios realizados en un proyecto.
+Sirve para guardar avances importantes con un mensaje que explique qué se modificó, como una especie de “punto de guardado” en un videojuego.
+
+Push
+Push es la acción de enviar los cambios guardados en tu repositorio local hacia una plataforma en línea como GitHub.
