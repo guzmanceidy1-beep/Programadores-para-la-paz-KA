@@ -1,0 +1,4 @@
+Este repositorio no admite `/reportes`. Si desea añadir ese *endpoint*, necesita el código fuente de la aplicación que se ejecuta en `localhost:3000`.
+
+FormatException: carácter de esquema ilegal (en el carácter 9)
+Ambiente", "descripcion": "Acumulación de residuos en una zona 
