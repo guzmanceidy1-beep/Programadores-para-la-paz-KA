@@ -1,0 +1,6 @@
+sistema.txt 
+echo "1. El comando uname -a muestra información del sistema operativo y del kernel." > sistema.txt
+echo "2. El comando hostname muestra el nombre del equipo o servidor." >> sistema.txt
+echo "3. Conocer esta información ayuda a administrar el servidor, detectar problemas y verificar la configuración del sistema." >> sistema.txt
+
+cat sistema.txt

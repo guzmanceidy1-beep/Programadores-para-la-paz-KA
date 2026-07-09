@@ -1,0 +1,5 @@
+echo "1. Activar la autenticación en dos pasos." > buenas-practicas.txt
+echo "2. Evitar abrir enlaces o archivos de origen desconocido." >> buenas-practicas.txt
+echo "3. Realizar copias de seguridad de la información importante." >> buenas-practicas.txt
+cat buenas-practicas.txt
+

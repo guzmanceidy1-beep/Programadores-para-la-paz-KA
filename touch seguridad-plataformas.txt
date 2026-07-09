@@ -1,0 +1,9 @@
+touch seguridad-plataformas.txt
+
+echo "1. Activar la autenticación en dos pasos." > seguridad-plataformas.txt
+echo "2. Mantener el sistema y las aplicaciones actualizadas." >> seguridad-plataformas.txt
+echo "3. Realizar copias de seguridad periódicas." >> seguridad-plataformas.txt
+echo "4. Capacitar a los usuarios sobre riesgos de seguridad." >> seguridad-plataformas.txt
+echo "5. Revisar y eliminar cuentas que ya no se utilicen." >> seguridad-plataformas.txt
+
+cat seguridad-plataformas.txt
