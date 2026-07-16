@@ -1,0 +1,10 @@
+Como vecino, quiero reportar un daño en el alumbrado público para que las autoridades puedan repararlo.
+
+Como líder comunitario, quiero ver un listado de las solicitudes pendientes para organizar las acciones de seguimiento.
+
+Como voluntario, quiero recibir recordatorios de las reuniones comunitarias por Telegram para no olvidar las fechas.
+
+Como ciudadano, quiero adjuntar fotografías y comentarios a un reporte para brindar más información sobre el problema.
+
+Como administrador de la plataforma, quiero generar un resumen de los reportes recibidos para compartirlo con la comunidad y las entidades responsables.
+
